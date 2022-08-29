@@ -14,8 +14,8 @@ global.APIKeys = {
 // NAMBAH BOLEH HAPUS JANGAN -_-
 global.owner = ['19146271508']
 global.premium = ['19146271508']
-global.packname = 'Dibuat Oleh'
-global.author = 'Fauzi:+19146271508'
+global.packname = 'Dibuat Oleh Fauzi'
+global.author = 'FauziBotz-Md'
 global.sessionName = 'Xavior'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
