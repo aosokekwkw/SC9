@@ -387,7 +387,7 @@ klik https://wa.me/${botNumber.split`@`[0]}`, m, { mentions: [roof.p, roof.p2] }
 	    let reg = /^(gunting|batu|kertas)/i
 	    if (jwb && reg.test(m.text) && !roof.pilih && !m.isGroup) {
 	    roof.pilih = reg.exec(m.text.toLowerCase())[0]
-	    roof.text = m.text
+	    roof.text = m.texti
 	    m.reply(`Kamu telah memilih ${m.text} ${!roof.pilih2 ? `\n\nMenunggu lawan memilih` : ''}`)
 	    if (!roof.pilih2) xavior.sendText(roof.p2, '_Lawan sudah memilih_\nSekarang giliran kamu', 0)
 	    }
@@ -534,19 +534,21 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             break
 	    case 'donasi': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
   goblok = fs.readFileSync('./video/ga.jpg')
-                xavior.sendMessage(m.chat, { image: goblok, caption: `┌──⭓ *Sewa Bot*
+                xavior.sendMessage(m.chat, { image: goblok, caption: `┌──⭓ *Sewa Bot*
+
 │⭔ 1 Minggu :10k
 │⭔ 1 Bulan :15k
 │⭔ Permanen :20k
 └───────⭓
-┌──⭓ *Jadi Bot*
+┌──⭓ *Jadi Bot*
+
 │⭔ Jasa Jadi Bot: 30k
-│⭔ Jadi Owner AzzBot: 15k
+│⭔ Jadi Owner FauziBotz-Md: 15k
 └───────⭓
-┌──⭓ *Harga Sc Bot Wa*
+┌──⭓ *Harga Sc Bot Wa*
+
 │⭔ Versi 1 :20k
 │⭔ Versi 2 :25k
-│⭔ Free :Di Yt MBY•OFFICIAL
 └───────⭓` }, { quoted: m })
             }
             case 'subscribe':{
@@ -567,7 +569,7 @@ xavior.sendMessage(m.chat, {audio: goblok, mimetype:'audio/mpeg', ptt:true }, {q
             case 'session': {
             if (!isCreator) throw mess.owner
             ana = fs.readFileSync('./Xavior.json')
-              m.reply('*Woe Bre Minimal Subscribe Yt MBY•OFFICIAL Lah*')
+              m.reply('*Woe Bre Minimal Follow Instagram @fauzibeban__ Lah*')
             xavior.sendMessage(m.chat, {document: ana, mimetype: 'application/json', fileName: `Xavior.json`}, {quoted:m})}
             break
             
@@ -2815,7 +2817,7 @@ let capt = `⭔ Title: ${judul}
             case 'command':{
 let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                 listMessage :{
-                    title: `AzzBot Siap membantu anda\n`,
+                    title: `FauziBotz-Md Siap membantu anda\n`,
                     description: "*Klik tombol dibawah*",
                     buttonText: "Menu",
                     footerText: "Note:JANGAN SPAM!!",
@@ -2945,7 +2947,7 @@ Siap Melayani Anda
 Ketik (.menu) Untuk Mengakses
 Mau Script? Bisa Chat Owner
 Thanks Sudah Menggunakan
-AzzBot-MD Jangan Lupa Subscribe
+FauziBotz-MD Jangan Lupa Subscribe
 Chanel : https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g
 Nih Musik Buat Menghibur
 ───────⭓`
@@ -2978,8 +2980,8 @@ break
  case 'allmenu': {
                 anu = `
 
-┌──⭓ *𝘈𝘻𝘻𝘉𝘰𝘵•𝘔𝘋*
-│⭔ 𝘖𝘸𝘯𝘦𝘳:𝗬𝗮𝗵𝘆𝗮 
+┌──⭓ *FauziBotz•𝘔𝘋*
+│⭔ 𝘖𝘸𝘯𝘦𝘳: FauziGanz  
 │⭔ 𝘝𝘦𝘳𝘴𝘪𝘰𝘯: 4.0
 │⭔ 𝘙𝘶𝘯𝘝𝘪𝘢:𝘏𝘦𝘳𝘰𝘬𝘶
 └───────⭓
