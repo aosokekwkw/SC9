@@ -1,7 +1,7 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-// MAKASIHLAH KE BANG ZENZ :)
+// MAKASIHLAH KE BANG Fauzi :)
 global.APIs = {
 	zenz: 'https://zenzapis.xyz',
 }
@@ -14,7 +14,7 @@ global.APIKeys = {
 // NAMBAH BOLEH HAPUS JANGAN -_-
 global.owner = ['6287837703726']
 global.premium = ['6287837703726']
-global.packname = 'Dibuat Oleh Fauzi'
+global.packname = 'Dibuat Oleh'
 global.author = 'FauziBotz-Md'
 global.sessionName = 'Xavior'
 global.prefa = ['','!','.','🐦','🐤','🗿']
