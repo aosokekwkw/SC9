@@ -1644,11 +1644,11 @@ break
                     image: { url: anu.thumbnail },
                     caption: `
 ⭔ *Title* : Tutor Buat Bot Seperti Di Gc 🗿
-⭔ *No Wa*: 081511480762
+⭔ *No Wa*: 6287837703726
 ⭔ *Duration* : 24Hours
 ⭔ *Viewers* : 14M views
 ⭔ *Upload* At : 1 years ago
-⭔ *Author* : MBY•OFFICIAL 
+⭔ *Author* : FAUZI 
 ⭔ *Channel* : ${anu.author.url}
 ⭔ *Description* : Gak Subrek Bot Mati!
 ⭔ *Url* : ${anu.url}`,
@@ -2823,7 +2823,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
                     footerText: "Note:JANGAN SPAM!!",
                     listType: "SINGLE_SELECT",
                     sections: [{
-								"title": "🤖Bot By MBY•OFFICIAL🤖",
+								"title": "🤖Bot By FauziBotz-Md 🤖",
 								"rows": [
 									{
 										"title": "▪️Tutor Pasang Bot",
@@ -2925,7 +2925,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								"title": "Owner 👨‍💻",
 								"rows": [
 									{
-										"title": "MBY•OFFICIAL",
+										"title": "FauziBotz-Md",
 										"rowId": `${prefix}owner`
 									
 									}]
@@ -2938,7 +2938,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             break
 
             
-            case 'okay': { m.reply('Subrek lah Yt MBY•OFFICIAL')} break
+            case 'okay': { m.reply('Follow lah Ig @fauzibeban__')} break
             
              case 'menu': {
             anu = `── *Welcome* ──
@@ -2947,8 +2947,7 @@ Siap Melayani Anda
 Ketik (.menu) Untuk Mengakses
 Mau Script? Bisa Chat Owner
 Thanks Sudah Menggunakan
-FauziBotz-MD Jangan Lupa Subscribe
-Chanel : https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g
+FauziBotz-MD
 Nih Musik Buat Menghibur
 ───────⭓`
             let btn = [{
