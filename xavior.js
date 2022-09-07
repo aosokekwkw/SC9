@@ -3305,8 +3305,8 @@ break
 │
 └───────⭓
 
-𝐀𝐳𝐳𝐁𝐨𝐭•𝐌𝐃
-𝐁𝐲:𝐘𝐚𝐡𝐲𝐚𝐆𝐚𝐧𝐳𝐳|𝘷𝘦𝘳𝘴𝘪𝘰𝘯 4.0`
+FauziBotz-Md 
+By:FauziGanz|𝘷𝘦𝘳𝘴𝘪𝘰𝘯 4.0`
                  let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
@@ -3315,7 +3315,7 @@ break
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 878-3770-3726'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3382,7 +3382,7 @@ break
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 878-3770-3726'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3437,7 +3437,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62878-3770-3726'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3498,7 +3498,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 878-3770-3726'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3554,7 +3554,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 878-3770-3726'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3618,7 +3618,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 878-3770-3726'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3696,7 +3696,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 878-3770-3726'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3755,7 +3755,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 878-3770-3726'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3811,7 +3811,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 878-3770-3726'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3872,7 +3872,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 878-3770-3726'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3949,7 +3949,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 878-3770-3726'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4014,7 +4014,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 878-3770-3726'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4071,7 +4071,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 878-3770-3726'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4126,7 +4126,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 878-3770-3726'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4176,7 +4176,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 878-3770-3726'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4227,7 +4227,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 878-3770-3726'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4285,7 +4285,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 878-3770-3726'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4346,7 +4346,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 878-3770-3726'
                                 }
                             }, {
                                 quickReplyButton: {
